@@ -1,2 +1,0 @@
-# Amatorization
-Created with CodeSandbox
