@@ -15,7 +15,7 @@ const App = ({open, onOpen, onClose}) => {
   return (
     <div className="App">
        <button href="#" onClick={onOpen}>
-          Click me
+          Click me to slide
        </button>
       <SliderTable rowItems={periods} rowKeys={rowKeys} headers={headers}
         transition='.4s' open={open} onClose={onClose} />
